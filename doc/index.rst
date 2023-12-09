@@ -12,3 +12,8 @@ Welcome to Example's documentation!
 
    some-feature.md
    another-feature.md
+
+Testing
+===================================
+
+This is a test to see whether the automatic docs update works.
